@@ -3,7 +3,7 @@
 blank_issues_enabled: true  # default
 contact_links:
   - name: 🔐 Security bug report 🔥
-    url: https://github.com/imjoseangel/ansiblecommon?utm_medium=github&utm_source=issue_template_chooser
+    url: https://github.com/imjoseangel/<project>?utm_medium=github&utm_source=issue_template_chooser
     about: |
       Please learn how to report security vulnerabilities here.
 
@@ -12,13 +12,13 @@ contact_links:
       a prompt response.
 
       For more information, see
-      https://github.com/imjoseangel/ansiblecommon
+      https://github.com/imjoseangel/<project>
   - name: 📝 Code of Conduct
-    url: https://github.com/imjoseangel/ansiblecommon/blob/devel/.github/CODE_OF_CONDUCT.md
+    url: https://github.com/imjoseangel/<project>/blob/devel/.github/CODE_OF_CONDUCT.md
     about: ❤ Be nice to other members of the community. ☮ Behave.
   - name: 💬 Talks to the community
-    url: https://github.com/imjoseangel/ansiblecommon?utm_medium=github&utm_source=issue_template_chooser#mailing-list-information
+    url: https://github.com/imjoseangel/<project>?utm_medium=github&utm_source=issue_template_chooser#mailing-list-information
     about: Please ask and answer usage questions here
   - name: ⚡ Working groups
-    url: https://github.com/imjoseangel/ansiblecommon/wiki
+    url: https://github.com/imjoseangel/<project>/wiki
     about: Interested in improving a specific area? Become a part of a working group!
