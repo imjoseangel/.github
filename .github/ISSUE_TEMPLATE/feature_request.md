@@ -11,6 +11,7 @@ about: Suggest an idea for this project
 ## ISSUE TYPE
 
 - Feature Idea
+- Repository Maintenance
 
 ## COMPONENT NAME
 <!--- Write the short name of the module, plugin, task or feature below, use your best guess if unsure -->
