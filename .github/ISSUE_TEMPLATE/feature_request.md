@@ -12,6 +12,7 @@ about: Suggest an idea for this project
 
 - Feature Idea
 - Repository Maintenance
+- Refactor
 
 ## COMPONENT NAME
 <!--- Write the short name of the module, plugin, task or feature below, use your best guess if unsure -->
