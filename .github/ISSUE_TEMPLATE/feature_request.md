@@ -11,7 +11,7 @@ about: Suggest an idea for this project
 ## ISSUE TYPE
 
 - Feature Idea
-- Repository Maintenance
+- Project Maintenance
 - Refactor
 
 ## COMPONENT NAME
